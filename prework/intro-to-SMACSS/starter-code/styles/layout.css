@@ -1,0 +1,7 @@
+footer section p{
+    display: grid;
+    line-height: 1.5em;
+    justify-content: center;
+    color: #aaa;
+    margin:30px; 
+  }
